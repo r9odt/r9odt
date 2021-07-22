@@ -22,6 +22,7 @@ My skills is:
  - Containerization: Docker, Kubernetes 
  - Databases: Mysql, MongoDB, ClickHouse, Redis
  - Virtualisation: Opennebula (With Ceph)
+ - Web Servers: Nginx
  - DevOps technologies: CI/CD with Gitlab, git, Helm, Chef
  - Monitoring: Grafana, InfluxDB, Telegraf, Graphite (Lomik's implementation), Prometheus (As monitoring of Kubernetes), Moira (Alerting)
  - Developing: Golang (Go), C, Python, Bash, PHP, Ruby 
