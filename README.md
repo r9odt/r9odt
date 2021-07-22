@@ -11,6 +11,10 @@ Interests:
  - Network technologies
  - System administration
 
+My Projects:
+ - Pass-Through Authentication based on Nginx with lua, using LDAP and simple hash alg [https://github.com/JIexa24/nginx-auth]  
+ - Impemention of merge sort on Golang [https://github.com/JIexa24/go-mergeSort]  
+
 My skills is:
  - Network technologies: ISO/OSI, DNS (bind), DHCP
  - System administrating: Linux (Debian, CentOS), LDAP 
@@ -18,7 +22,7 @@ My skills is:
  - Databases: Mysql, MongoDB, ClickHouse, Redis
  - Virtualisation: Opennebula (With Ceph)
  - DevOps technologies: CI/CD with Gitlab, git, Helm, Chef
- - Monitoring: Grafana, InfluxDB, Telegraf, Graphite (Lomik's implementation), Prometheus (As monitoring of Kubernetes)
+ - Monitoring: Grafana, InfluxDB, Telegraf, Graphite (Lomik's implementation), Prometheus (As monitoring of Kubernetes), Moira (Alerting)
  - Developing: Golang (Go), C, Python, Bash, PHP, Ruby 
  
 <!--
