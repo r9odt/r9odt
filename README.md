@@ -1,5 +1,6 @@
 ## Romanuta Alexey
 I am a student of Siberian State University of Telecommunications and Information Sciences.  
+I have a Master's qualification in Computer Science and Engineering.  
 Now I am studying in graduate school.
 
 I am also maintaince and software engineer.  
