@@ -18,7 +18,7 @@ My Projects:
 
 My skills is:
  - Network technologies: ISO/OSI, DNS (bind), DHCP, Routers&Switches (Cisco, Mikrotik, HP), Routing&Switching (Route table RIB/FIB, QoS, Firewall, iptables, iproute, Packet Flow) 
- - System administrating: Linux (Debian, CentOS), LDAP 
+ - System administration: Linux (Debian, CentOS), LDAP 
  - Containerization: Docker, Kubernetes 
  - Databases: Mysql, MongoDB, ClickHouse, Redis
  - Virtualisation: Opennebula (With Ceph)
