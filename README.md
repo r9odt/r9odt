@@ -14,7 +14,13 @@ Interests:
 
 My Projects:
  - Pass-Through Authentication based on Nginx with lua, using LDAP and simple hash alg [https://github.com/JIexa24/nginx-auth]  
+ [![License](https://img.shields.io/github/license/JIexa24/nginx-auth)](LICENSE)  
+ - API Client for Chef Server with web interface and ssh-client for manual deploing nodes [https://github.com/JIexa24/chef-webapi]  
+ [![License](https://img.shields.io/github/license/JIexa24/chef-webapi)](LICENSE) 
  - Impemention of merge sort on Golang [https://github.com/JIexa24/go-mergeSort]  
+ [![License](https://img.shields.io/github/license/JIexa24/go-mergeSort)](LICENSE)  
+ - Moira API client for dump and restoring/applying configuration [https://github.com/JIexa24/moira-dumper]  
+ [![License](https://img.shields.io/github/license/JIexa24/moira-dumper)](LICENSE)  
 
 My skills is:
  - Network technologies: ISO/OSI, DNS (bind), DHCP, Routers&Switches (Cisco, Mikrotik, HP), Routing&Switching (Route table RIB/FIB, QoS, Firewall, iptables, iproute, Packet Flow) 
