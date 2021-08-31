@@ -3,7 +3,7 @@ I am a student of Siberian State University of Telecommunications and Informatio
 I have a Master's qualification in Computer Science and Engineering.  
 Now I am studying in graduate school.
 
-I am also maintaince and software engineer.  
+I am also DevOps and software engineer.  
 I am currently learning DevOps technical, programming and system administration.
 
 Interests:
