@@ -29,9 +29,10 @@ My skills is:
  - Databases: Mysql, MongoDB, ClickHouse, Redis
  - Virtualisation: Opennebula (With Ceph)
  - Web Servers: Nginx
- - DevOps technologies: CI/CD with Gitlab, git, Helm, Chef
+ - DevOps technologies: CI/CD with Gitlab, git, Helm, Chef, Ansible
  - Monitoring: Grafana, InfluxDB, Telegraf, Graphite (Lomik's implementation), Prometheus (As monitoring of Kubernetes), Moira (Alerting)
  - Developing: Golang (Go), C, Python, Bash, PHP, Ruby 
+ - Apache stack: Hadoop, HDFS, Kafka 
  
 <!--
 **JIexa24/JIexa24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
