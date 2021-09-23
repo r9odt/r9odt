@@ -24,12 +24,12 @@ My Projects:
 
 My skills is:
  - Network technologies: ISO/OSI, DNS (bind), DHCP, Routers&Switches (Cisco, Mikrotik, HP), Routing&Switching (Route table RIB/FIB, QoS, Firewall, iptables, iproute, Packet Flow) 
- - System administration: Linux (Debian, CentOS), LDAP 
- - Containerization: Docker, Kubernetes 
+ - System administration: Linux (Debian, CentOS), LDAP
+ - Containerization: Docker, Kubernetes
  - Databases: Mysql, MongoDB, ClickHouse, Redis
  - Virtualisation: Opennebula (With Ceph)
  - Web Servers: Nginx
- - DevOps technologies: CI/CD with Gitlab, git, Helm, Chef, Ansible
+ - DevOps technologies: CI/CD with Gitlab, git, Helm, Chef, Ansible, Jenkins
  - Monitoring: Grafana, InfluxDB, Telegraf, Graphite (Lomik's implementation), Prometheus (As monitoring of Kubernetes), Moira (Alerting)
  - Developing: Golang (Go), C, Python, Bash, PHP, Ruby 
  - Apache stack: Hadoop, HDFS, Kafka 
