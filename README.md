@@ -62,7 +62,7 @@ I am currently learning DevOps technical, programming and system administration.
   ![Git](https://img.shields.io/badge/-Git-232830?style=fflat-square&logo=git&logoColor=6296CC)
   ![Gitlab](https://img.shields.io/badge/-Gitlab%20with%20CI/CD-232830?style=fflat-square&logo=Gitlab&logoColor=6296CC)
   ![Helm](https://img.shields.io/badge/-Helm-232830?style=fflat-square&logo=Helm&logoColor=6296CC)
-  ![Chef](https://img.shields.io/badge/-Gitlab%20with%20CI/CD-232830?style=fflat-square&logo=Gitlab&logoColor=6296CC)
+  ![Chef](https://img.shields.io/badge/-Chef-232830?style=fflat-square&logo=Chef&logoColor=6296CC)
   ![Ansible](https://img.shields.io/badge/-Ansible-232830?style=fflat-square&logo=Ansible&logoColor=6296CC)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-232830?style=fflat-square&logo=Jenkins&logoColor=6296CC)
 - ##### Monitoring:
