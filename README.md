@@ -32,7 +32,6 @@ I am currently learning DevOps technical, programming and system administration.
   ![Cisco](https://img.shields.io/badge/-Cisco-232830?style=fflat-square&logo=Cisco&logoColor=6296CC)
   ![MikroTik](https://img.shields.io/badge/-MikroTik-232830?style=fflat-square&logo=&logoColor=6296CC)
   ![HP](https://img.shields.io/badge/-HP-232830?style=fflat-square&logo=HP&logoColor=6296CC)  
-  
   ![Routing&Switching](https://img.shields.io/badge/-Routing&Switching-232830?style=fflat-square&logo=&logoColor=6296CC)
   ![Route table RIB/FIB](https://img.shields.io/badge/-Route%20table%20RIB/FIB-232830?style=fflat-square&logo=&logoColor=6296CC)
   ![QoS](https://img.shields.io/badge/-QoS-232830?style=fflat-square&logo=&logoColor=6296CC)
