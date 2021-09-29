@@ -8,10 +8,7 @@ I am also DevOps and software engineer.
 I am currently learning DevOps technical, programming and system administration.
 
 ### My interests
- - Programming
- - DevOps
- - Network technologies
- - System administration
+![Programming](https://img.shields.io/badge/-Programming-232830?style=for-the-badge) ![DevOps](https://img.shields.io/badge/-DevOps-232830?style=for-the-badge&logo=DevOps) ![Network technologies](https://img.shields.io/badge/-Network%20technologies-232830?style=for-the-badge) ![System administration](https://img.shields.io/badge/-System%20administration-232830?style=for-the-badge)
 
 ### My Projects
  - Pass-Through Authentication based on Nginx with lua, using LDAP and simple hash alg [https://github.com/JIexa24/nginx-auth]  
@@ -68,7 +65,7 @@ I am currently learning DevOps technical, programming and system administration.
 - ##### Monitoring:
   ![Grafana](https://img.shields.io/badge/-Grafana-232830?style=fflat-square&logo=Grafana&logoColor=6296CC)
   ![InfluxDB](https://img.shields.io/badge/-InfluxDB-232830?style=fflat-square&logo=InfluxDB&logoColor=6296CC)
-  ![Telegraf](https://img.shields.io/badge/-Telegraf-232830?style=fflat-square&logo=&logoColor=6296CC)
+  ![Telegraf](https://img.shields.io/badge/-Telegraf-232830?style=fflat-square&logo=Telegraph&logoColor=6296CC)
   ![Graphite](https://img.shields.io/badge/-Graphite%20(Lomik's)-232830?style=fflat-square&logo=&logoColor=6296CC)
   ![Prometheus](https://img.shields.io/badge/-Prometheus-232830?style=fflat-square&logo=Prometheus&logoColor=6296CC)
   ![Kapacitor](https://img.shields.io/badge/-Kapacitor-232830?style=fflat-square&logo=&logoColor=6296CC)
@@ -77,12 +74,12 @@ I am currently learning DevOps technical, programming and system administration.
   ![Go](https://img.shields.io/badge/-Golang-232830?style=fflat-square&logo=Go&logoColor=6296CC)
   ![C](https://img.shields.io/badge/-C-232830?style=fflat-square&logo=C&logoColor=6296CC)
   ![Python](https://img.shields.io/badge/-Python-232830?style=fflat-square&logo=Python&logoColor=6296CC)
-  ![Bash](https://img.shields.io/badge/-Bash-232830?style=fflat-square&logo=&logoColor=6296CC)
+  ![Bash](https://img.shields.io/badge/-Bash-232830?style=fflat-square&logo=GNU%20Bash&logoColor=6296CC)
   ![Ruby](https://img.shields.io/badge/-Ruby-232830?style=fflat-square&logo=Ruby&logoColor=6296CC)
 - ##### Apache stack:
   ![Hadoop](https://img.shields.io/badge/-Hadoop-232830?style=fflat-square&logo=&logoColor=6296CC)
   ![HDFS](https://img.shields.io/badge/-HDFS-232830?style=fflat-square&logo=&logoColor=6296CC)
-  ![Kafka](https://img.shields.io/badge/-Kafka-232830?style=fflat-square&logo=&logoColor=6296CC)
+  ![Kafka](https://img.shields.io/badge/-Kafka-232830?style=fflat-square&logo=Apache%20Kafka&logoColor=6296CC)
   
 
 <!--
