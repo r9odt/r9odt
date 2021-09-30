@@ -12,13 +12,13 @@ I am currently learning DevOps technical, programming and system administration.
 
 ### My Projects
  - Pass-Through Authentication based on Nginx with lua, using LDAP and simple hash alg [https://github.com/JIexa24/nginx-auth]  
- [![License](https://img.shields.io/github/license/JIexa24/nginx-auth)](LICENSE)  
+ [![License](https://img.shields.io/github/license/JIexa24/nginx-auth)](https://github.com/JIexa24/nginx-auth/blob/master/LICENSE)  
  - API Client for Chef Server with web interface and ssh-client for manual deploing nodes [https://github.com/JIexa24/chef-webapi]  
- [![License](https://img.shields.io/github/license/JIexa24/chef-webapi)](LICENSE) 
+ [![License](https://img.shields.io/github/license/JIexa24/chef-webapi)](https://github.com/JIexa24/chef-webapi/blob/master/LICENSE) 
  - Impemention of merge sort on Golang [https://github.com/JIexa24/go-mergeSort]  
- [![License](https://img.shields.io/github/license/JIexa24/go-mergeSort)](LICENSE)  
+ [![License](https://img.shields.io/github/license/JIexa24/go-mergeSort)](https://github.com/JIexa24/go-mergeSort/blob/master/LICENSE)  
  - Moira API client for dump and restoring/applying configuration [https://github.com/JIexa24/moira-dumper]  
- [![License](https://img.shields.io/github/license/JIexa24/moira-dumper)](LICENSE)  
+ [![License](https://img.shields.io/github/license/JIexa24/moira-dumper)](https://github.com/JIexa24/moira-dumper/blob/master/LICENSE)  
 
 ### My skills is:
 - ##### Network technologies:
