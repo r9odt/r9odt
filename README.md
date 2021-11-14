@@ -21,6 +21,25 @@ I am currently learning DevOps technical, programming and system administration.
  [![License](https://img.shields.io/github/license/JIexa24/moira-dumper)](https://github.com/JIexa24/moira-dumper/blob/master/LICENSE)  
 
 ### My skills is:
+- ##### Developing:
+  [![Go](https://img.shields.io/badge/-Golang-232830?style=fflat-square&logo=Go&logoColor=6296CC)](https://golang.org/)
+  [![C](https://img.shields.io/badge/-C-232830?style=fflat-square&logo=C&logoColor=6296CC)](https://en.wikipedia.org/wiki/C_(programming_language))
+  [![Python](https://img.shields.io/badge/-Python-232830?style=fflat-square&logo=Python&logoColor=6296CC)](https://www.python.org/)
+  [![Bash](https://img.shields.io/badge/-Bash-232830?style=fflat-square&logo=GNU%20Bash&logoColor=6296CC)](https://www.gnu.org/software/bash/)
+  [![Ruby](https://img.shields.io/badge/-Ruby-232830?style=fflat-square&logo=Ruby&logoColor=6296CC)](https://www.ruby-lang.org/)
+
+  Also, i have some skills in reverse-engineering on more other languages, including  next list:
+  [![Java](https://img.shields.io/badge/-Java-232830?style=fflat-square&logo=Java&logoColor=6296CC)](https://java.com/)
+  [![C#](https://img.shields.io/badge/-C%20Sharp-232830?style=fflat-square&logo=.Net&logoColor=6296CC)](https://github.com/JIexa24)
+  [![PHP](https://img.shields.io/badge/-PHP-232830?style=fflat-square&logo=PHP&logoColor=6296CC)](https://php.net)
+  [![JS](https://img.shields.io/badge/-JavaScript-232830?style=fflat-square&logo=javascript&logoColor=6296CC)](https://javascript.com)
+- ##### DevOps technologies:
+  [![Git](https://img.shields.io/badge/-Git-232830?style=fflat-square&logo=git&logoColor=6296CC)](https://git-scm.com/)
+  [![Gitlab](https://img.shields.io/badge/-Gitlab%20with%20CI/CD-232830?style=fflat-square&logo=Gitlab&logoColor=6296CC)](https://gitlab.com)
+  [![Helm](https://img.shields.io/badge/-Helm-232830?style=fflat-square&logo=Helm&logoColor=6296CC)](https://helm.sh/)
+  [![Chef](https://img.shields.io/badge/-Chef-232830?style=fflat-square&logo=Chef&logoColor=6296CC)](https://www.chef.io/)
+  [![Ansible](https://img.shields.io/badge/-Ansible-232830?style=fflat-square&logo=Ansible&logoColor=6296CC)](https://www.ansible.com/)
+  [![Jenkins](https://img.shields.io/badge/-Jenkins-232830?style=fflat-square&logo=Jenkins&logoColor=6296CC)](https://www.jenkins.io/)
 - ##### Network technologies:
   [![ISO/OSI](https://img.shields.io/badge/-ISO/OSI-232830?style=fflat-square&logo=&logoColor=6296CC)](https://github.com/JIexa24)
   [![DNS](https://img.shields.io/badge/-DNS%20(bind)-232830?style=fflat-square&logo=&logoColor=6296CC)](https://github.com/JIexa24)
@@ -56,13 +75,6 @@ I am currently learning DevOps technical, programming and system administration.
   [![Ceph](https://img.shields.io/badge/-Ceph-232830?style=fflat-square&logo=Ceph&logoColor=6296CC)](https://ceph.com/)
 - ##### Web Servers:
   [![Nginx](https://img.shields.io/badge/-Nginx-232830?style=fflat-square&logo=Nginx&logoColor=6296CC)](https://nginx.org/)
-- ##### DevOps technologies:
-  [![Git](https://img.shields.io/badge/-Git-232830?style=fflat-square&logo=git&logoColor=6296CC)](https://git-scm.com/)
-  [![Gitlab](https://img.shields.io/badge/-Gitlab%20with%20CI/CD-232830?style=fflat-square&logo=Gitlab&logoColor=6296CC)](https://gitlab.com)
-  [![Helm](https://img.shields.io/badge/-Helm-232830?style=fflat-square&logo=Helm&logoColor=6296CC)](https://helm.sh/)
-  [![Chef](https://img.shields.io/badge/-Chef-232830?style=fflat-square&logo=Chef&logoColor=6296CC)](https://www.chef.io/)
-  [![Ansible](https://img.shields.io/badge/-Ansible-232830?style=fflat-square&logo=Ansible&logoColor=6296CC)](https://www.ansible.com/)
-  [![Jenkins](https://img.shields.io/badge/-Jenkins-232830?style=fflat-square&logo=Jenkins&logoColor=6296CC)](https://www.jenkins.io/)
 - ##### Monitoring:
   [![Grafana](https://img.shields.io/badge/-Grafana-232830?style=fflat-square&logo=Grafana&logoColor=6296CC)](https://grafana.com/)
   [![InfluxDB](https://img.shields.io/badge/-InfluxDB-232830?style=fflat-square&logo=InfluxDB&logoColor=6296CC)](https://www.influxdata.com/products/influxdb/)
@@ -71,12 +83,6 @@ I am currently learning DevOps technical, programming and system administration.
   [![Prometheus](https://img.shields.io/badge/-Prometheus-232830?style=fflat-square&logo=Prometheus&logoColor=6296CC)](https://prometheus.io/)
   [![Kapacitor](https://img.shields.io/badge/-Kapacitor-232830?style=fflat-square&logo=&logoColor=6296CC)](https://github.com/influxdata/kapacitor)
   [![Moira](https://img.shields.io/badge/-Moira%20(Alerting)-232830?style=fflat-square&logo=&logoColor=6296CC)](https://moira.readthedocs.io/)
-- ##### Developing:
-  [![Go](https://img.shields.io/badge/-Golang-232830?style=fflat-square&logo=Go&logoColor=6296CC)](https://golang.org/)
-  [![C](https://img.shields.io/badge/-C-232830?style=fflat-square&logo=C&logoColor=6296CC)](https://en.wikipedia.org/wiki/C_(programming_language))
-  [![Python](https://img.shields.io/badge/-Python-232830?style=fflat-square&logo=Python&logoColor=6296CC)](https://www.python.org/)
-  [![Bash](https://img.shields.io/badge/-Bash-232830?style=fflat-square&logo=GNU%20Bash&logoColor=6296CC)](https://www.gnu.org/software/bash/)
-  [![Ruby](https://img.shields.io/badge/-Ruby-232830?style=fflat-square&logo=Ruby&logoColor=6296CC)](https://www.ruby-lang.org/)
 - ##### Apache stack:
   [![Hadoop](https://img.shields.io/badge/-Hadoop-232830?style=fflat-square&logo=&logoColor=6296CC)](https://hadoop.apache.org/)
   [![HDFS](https://img.shields.io/badge/-HDFS-232830?style=fflat-square&logo=&logoColor=6296CC)](https://hadoop.apache.org/)
