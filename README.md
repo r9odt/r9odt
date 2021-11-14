@@ -28,7 +28,7 @@ I am currently learning DevOps technical, programming and system administration.
   [![Bash](https://img.shields.io/badge/-Bash-232830?style=fflat-square&logo=GNU%20Bash&logoColor=6296CC)](https://www.gnu.org/software/bash/)
   [![Ruby](https://img.shields.io/badge/-Ruby-232830?style=fflat-square&logo=Ruby&logoColor=6296CC)](https://www.ruby-lang.org/)
 
-  Also, i have some skills in reverse-engineering on more other languages, including  next list:
+  Also, i have some skills in reverse-engineering on more other languages, including next list:  
   [![Java](https://img.shields.io/badge/-Java-232830?style=fflat-square&logo=Java&logoColor=6296CC)](https://java.com/)
   [![C#](https://img.shields.io/badge/-C%20Sharp-232830?style=fflat-square&logo=.Net&logoColor=6296CC)](https://github.com/JIexa24)
   [![PHP](https://img.shields.io/badge/-PHP-232830?style=fflat-square&logo=PHP&logoColor=6296CC)](https://php.net)
