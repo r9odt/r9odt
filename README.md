@@ -21,14 +21,14 @@ I am currently learning DevOps technical, programming and system administration.
  [![License](https://img.shields.io/github/license/JIexa24/moira-dumper)](https://github.com/JIexa24/moira-dumper/blob/master/LICENSE)  
 
 ### My skills is:
-- ##### Developing:
+- ##### Developing/programming:
   [![Go](https://img.shields.io/badge/-Golang-232830?style=fflat-square&logo=Go&logoColor=6296CC)](https://golang.org/)
   [![C](https://img.shields.io/badge/-C-232830?style=fflat-square&logo=C&logoColor=6296CC)](https://en.wikipedia.org/wiki/C_(programming_language))
   [![Python](https://img.shields.io/badge/-Python-232830?style=fflat-square&logo=Python&logoColor=6296CC)](https://www.python.org/)
   [![Bash](https://img.shields.io/badge/-Bash-232830?style=fflat-square&logo=GNU%20Bash&logoColor=6296CC)](https://www.gnu.org/software/bash/)
-  [![Ruby](https://img.shields.io/badge/-Ruby-232830?style=fflat-square&logo=Ruby&logoColor=6296CC)](https://www.ruby-lang.org/)
 
   Also, i have some skills in reverse-engineering on more other languages, including next list:  
+  [![Ruby](https://img.shields.io/badge/-Ruby-232830?style=fflat-square&logo=Ruby&logoColor=6296CC)](https://www.ruby-lang.org/)
   [![Java](https://img.shields.io/badge/-Java-232830?style=fflat-square&logo=Java&logoColor=6296CC)](https://java.com/)
   [![C#](https://img.shields.io/badge/-C%20Sharp-232830?style=fflat-square&logo=.Net&logoColor=6296CC)](https://github.com/JIexa24)
   [![PHP](https://img.shields.io/badge/-PHP-232830?style=fflat-square&logo=PHP&logoColor=6296CC)](https://php.net)
