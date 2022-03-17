@@ -39,7 +39,9 @@ I am currently learning DevOps technical, programming and system administration.
   [![Helm](https://img.shields.io/badge/-Helm-232830?style=fflat-square&logo=Helm&logoColor=6296CC)](https://helm.sh/)
   [![Chef](https://img.shields.io/badge/-Chef-232830?style=fflat-square&logo=Chef&logoColor=6296CC)](https://www.chef.io/)
   [![Ansible](https://img.shields.io/badge/-Ansible-232830?style=fflat-square&logo=Ansible&logoColor=6296CC)](https://www.ansible.com/)
-  [![Jenkins](https://img.shields.io/badge/-Jenkins-232830?style=fflat-square&logo=Jenkins&logoColor=6296CC)](https://www.jenkins.io/)
+  [![Jenkins](https://img.shields.io/badge/-Jenkins-232830?style=fflat-square&logo=Jenkins&logoColor=6296CC)](https://www.jenkins.io/)  
+  [![Vagrant](https://img.shields.io/badge/-Vagrant-232830?style=fflat-square&logo=Vagrant&logoColor=6296CC)](//www.vagrantup.com/)
+  [![Terraform](https://img.shields.io/badge/-Terraform-232830?style=fflat-square&logo=Terraform&logoColor=6296CC)](//www.terraform.io/)
 - ##### Network technologies:
   [![ISO/OSI](https://img.shields.io/badge/-ISO/OSI-232830?style=fflat-square&logo=&logoColor=6296CC)](https://github.com/JIexa24)
   [![DNS](https://img.shields.io/badge/-DNS%20(bind)-232830?style=fflat-square&logo=&logoColor=6296CC)](https://github.com/JIexa24)
