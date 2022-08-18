@@ -98,7 +98,7 @@
 
   [![Nginx](https://img.shields.io/badge/-Nginx-232830?style=fflat-square&logo=Nginx&logoColor=6296CC)](//nginx.org/)
   [![Traefik](https://img.shields.io/badge/-Traefik%20Proxy-232830?style=fflat-square&logo=traefikproxy&logoColor=6296CC)](//traefik.io/)
-  [![Authelia](https://img.shields.io/badge/-authelia-232830?style=fflat-square&logo=Authelia&logoColor=6296CC)](//authelia.com/)
+  [![Authelia](https://img.shields.io/badge/-Authelia-232830?style=fflat-square&logo=Authelia&logoColor=6296CC)](//authelia.com/)
   
 - ### Monitoring
 
