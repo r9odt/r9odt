@@ -74,6 +74,7 @@
   [![Debian](https://img.shields.io/badge/-Debian-232830?style=fflat-square&logo=Debian&logoColor=6296CC)](//www.debian.org/)
   [![CentOS](https://img.shields.io/badge/-CentOS-232830?style=fflat-square&logo=CentOS&logoColor=6296CC)](//www.centos.org/)  
   [![LDAP](https://img.shields.io/badge/-LDAP-232830?style=fflat-square&logo=&logoColor=6296CC)](//wikipedia.org/wiki/LDAP)
+  [![FreeIPA](https://img.shields.io/badge/-FreeIPA-232830?style=fflat-square&logo=&logoColor=6296CC)](//freeia.org)
   [![NIS](https://img.shields.io/badge/-NIS-232830?style=fflat-square&logo=&logoColor=6296CC)](//wikipedia.org/wiki/Network_information_system)
   
 - ### Containerization
