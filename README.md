@@ -117,6 +117,11 @@
   [![HDFS](https://img.shields.io/badge/-HDFS-232830?style=fflat-square&logo=&logoColor=6296CC)](//hadoop.apache.org/)
   [![Kafka](https://img.shields.io/badge/-Kafka-232830?style=fflat-square&logo=Apache%20Kafka&logoColor=6296CC)](//kafka.apache.org/)
 
+- ### Etc
+
+  [![OpenMPI](https://img.shields.io/badge/-OpenMPI-232830?style=fflat-square&logo=&logoColor=6296CC)](//www.open-mpi.org/)
+  [![Slurm](https://img.shields.io/badge/-Slurm-232830?style=fflat-square&logo=&logoColor=6296CC)](//slurm.schedmd.com/)
+
 <!--
 **JIexa24/JIexa24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
