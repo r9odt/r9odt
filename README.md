@@ -12,7 +12,7 @@
 
 ## My interests
 
-![Programming](https://img.shields.io/badge/-Programming-232830?style=for-the-badge) ![DevOps](https://img.shields.io/badge/-DevOps-232830?style=for-the-badge&logo=DevOps) ![Network technologies](https://img.shields.io/badge/-Network%20technologies-232830?style=for-the-badge) ![System administration](https://img.shields.io/badge/-System%20administration-232830?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/-DevOps-232830?style=for-the-badge&logo=DevOps) ![Programming/MPI](https://img.shields.io/badge/-Programming/MPI-232830?style=for-the-badge)  ![Network technologies](https://img.shields.io/badge/-Network%20technologies-232830?style=for-the-badge) ![System administration](https://img.shields.io/badge/-System%20administration-232830?style=for-the-badge)
 
 ## My Projects
 
