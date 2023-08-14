@@ -10,6 +10,8 @@
 - I am also DevOps and software engineer.  
 - I am currently learning DevOps technical, programming and system administration.
 
+<a href="./personal.gpg" target="_blank"> <img alt="" src="https://img.shields.io/badge/gpg%20personal-FEDF61F5D3C7AFFB23C5364D90C309F9B826384D-blue?style=for-the-badge&labelColor=090909"></a>
+
 ## My interests
 
 ![DevOps](https://img.shields.io/badge/-DevOps-232830?style=for-the-badge&logo=DevOps) ![Programming/MPI](https://img.shields.io/badge/-Programming/MPI-232830?style=for-the-badge)  ![Network technologies](https://img.shields.io/badge/-Network%20technologies-232830?style=for-the-badge) ![System administration](https://img.shields.io/badge/-System%20administration-232830?style=for-the-badge)
