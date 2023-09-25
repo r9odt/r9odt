@@ -10,7 +10,11 @@
 - I am also DevOps and software engineer.  
 - I am currently learning DevOps technical, programming and system administration.
 
-[![personal-gpg](https://img.shields.io/badge/gpg%20personal-FEDF61F5D3C7AFFB23C5364D90C309F9B826384D-blue?style=for-the-badge&labelColor=090909)](./personal.gpg)
+[![personal-gpg](https://img.shields.io/badge/gpg%20personal-80EC1A106A728E6CEC4F7976A1716C168860334B-blue?style=for-the-badge&labelColor=090909)](./personal.gpg)
+
+Old keys:
+
+[![personal-gpg](https://img.shields.io/badge/gpg%20personal-FEDF61F5D3C7AFFB23C5364D90C309F9B826384D-blue?style=for-the-badge&labelColor=090909)](./personal-expire-25.09.2023.gpg)
 
 ## My interests
 
