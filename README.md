@@ -4,10 +4,10 @@
 
 ## About me
 
-- I am a student of Siberian State University of Telecommunications and Information Sciences.  
+- I am a PhD student of Siberian State University of Telecommunications and Information Science.
 - I have a Master's qualification in Computer Science and Engineering.  
   Now I am studying in graduate school.
-- I am also DevOps and software engineer.  
+- I am also DevOps and software engineer.
 - I am currently learning DevOps technical, programming and system administration.
 
 [![personal-gpg](https://img.shields.io/badge/gpg%20personal-80EC1A106A728E6CEC4F7976A1716C168860334B-blue?style=for-the-badge&labelColor=090909)](./personal.gpg)
@@ -16,12 +16,22 @@ Old keys:
 
 [![personal-gpg](https://img.shields.io/badge/gpg%20personal-FEDF61F5D3C7AFFB23C5364D90C309F9B826384D-blue?style=for-the-badge&labelColor=090909)](./personal-expire-25.09.2023.gpg)
 
-## My interests
+## My research interests
 
-![DevOps](https://img.shields.io/badge/-DevOps-232830?style=for-the-badge&logo=DevOps) ![Programming/MPI](https://img.shields.io/badge/-Programming/MPI-232830?style=for-the-badge)  ![Network technologies](https://img.shields.io/badge/-Network%20technologies-232830?style=for-the-badge) ![System administration](https://img.shields.io/badge/-System%20administration-232830?style=for-the-badge)
+![Parallel computing](https://img.shields.io/badge/-Parallel%20computing-232830?style=for-the-badge)
+![MPI Collective exchange](https://img.shields.io/badge/-MPI%20Collective%20Exchanges-232830?style=for-the-badge)
+![Shared memory](https://img.shields.io/badge/-Shared%20memory%20exchanges-232830?style=for-the-badge)
+![HPC](https://img.shields.io/badge/-HPC-232830?style=for-the-badge)
+
+## My work interests
+
+![DevOps](https://img.shields.io/badge/-DevOps-232830?style=for-the-badge&logo=DevOps)
+![Network technologies](https://img.shields.io/badge/-Network%20technologies-232830?style=for-the-badge)
+![System administration](https://img.shields.io/badge/-System%20administration-232830?style=for-the-badge)
 
 ## My Projects
 
+- Open MPI coll/sharm component: Perform MPI blocking collectivie exchanges (All-to-one gather/reduce, One-to-all scatter/bcast, All-to-all exchanges) via shared memory with queue system and CMA, XPMEM.
 - Gitlab users/groups sync with FreeIPA [https://github.com/JIexa24/gitlab-ldap-sync]  
  [![License](https://img.shields.io/github/license/JIexa24/gitlab-ldap-sync)](//github.com/JIexa24/gitlab-ldap-sync/blob/master/LICENSE)
 - Impemention of merge sort on Golang [https://github.com/JIexa24/go-mergeSort]  
