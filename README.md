@@ -31,7 +31,7 @@ Old keys:
 
 ## My Projects
 
-- Open MPI coll/sharm component: Perform MPI blocking collectivie exchanges (All-to-one gather/reduce, One-to-all scatter/bcast, All-to-all exchanges) via shared memory with queue system and CMA, XPMEM.  
+- Open MPI coll/sharm component: Perform MPI blocking collectivie exchanges (All-to-one gather/reduce, One-to-all scatter/bcast, All-to-all exchanges) through shared memory with queue system and CMA, XPMEM.  
  [Open MPI coll/sharm component](//github.com/JIexa24/ompi/tree/feat-coll-sharm-component)  
 - Gitlab users/groups sync with FreeIPA  
  [gitlab-ldap-sync](github.com/JIexa24/gitlab-ldap-sync)  
