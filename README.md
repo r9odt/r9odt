@@ -34,7 +34,7 @@ Old keys:
 - Open MPI coll/sharm component: Perform MPI blocking collectivie exchanges (All-to-one gather/reduce, One-to-all scatter/bcast, All-to-all exchanges) through shared memory with queue system and CMA, XPMEM.  
  [Open MPI coll/sharm component](//github.com/JIexa24/ompi/tree/feat-coll-sharm-component)  
 - Gitlab users/groups sync with FreeIPA  
- [gitlab-ldap-sync](github.com/JIexa24/gitlab-ldap-sync)  
+ [gitlab-ldap-sync](//github.com/JIexa24/gitlab-ldap-sync)  
  [![License](https://img.shields.io/github/license/JIexa24/gitlab-ldap-sync)](//github.com/JIexa24/gitlab-ldap-sync/blob/master/LICENSE)
 - Impemention of merge sort on Golang  
  [go-mergeSort](//github.com/JIexa24/go-mergeSort)  
