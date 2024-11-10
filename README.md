@@ -32,22 +32,22 @@ Old keys:
 ## My Projects
 
 - Open MPI coll/sharm component: Perform MPI blocking collectivie exchanges (All-to-one gather/reduce, One-to-all scatter/bcast, All-to-all exchanges) through shared memory with queue system and CMA, XPMEM.  
- [Open MPI coll/sharm component](//github.com/JIexa24/ompi/tree/feat-coll-sharm-component)  
+ [Open MPI coll/sharm component](//github.com/r9odt/ompi/tree/feat-coll-sharm-component)  
 - Gitlab users/groups sync with FreeIPA  
- [gitlab-ldap-sync](//github.com/JIexa24/gitlab-ldap-sync)  
- [![License](https://img.shields.io/github/license/JIexa24/gitlab-ldap-sync)](//github.com/JIexa24/gitlab-ldap-sync/blob/master/LICENSE)
+ [gitlab-ldap-sync](//github.com/r9odt/gitlab-ldap-sync)  
+ [![License](https://img.shields.io/github/license/r9odt/gitlab-ldap-sync)](//github.com/r9odt/gitlab-ldap-sync/blob/master/LICENSE)
 - Impemention of merge sort on Golang  
- [go-mergeSort](//github.com/JIexa24/go-mergeSort)  
- [![License](https://img.shields.io/github/license/JIexa24/go-mergeSort)](//github.com/JIexa24/go-mergeSort/blob/master/LICENSE)
+ [go-mergeSort](//github.com/r9odt/go-mergeSort)  
+ [![License](https://img.shields.io/github/license/r9odt/go-mergeSort)](//github.com/r9odt/go-mergeSort/blob/master/LICENSE)
 - API Client for Chef Server with web interface and ssh-client for manual deploing nodes  
- [chef-webapi](//github.com/JIexa24/chef-webapi)  
- [![License](https://img.shields.io/github/license/JIexa24/chef-webapi)](//github.com/JIexa24/chef-webapi/blob/master/LICENSE)
+ [chef-webapi](//github.com/r9odt/chef-webapi)  
+ [![License](https://img.shields.io/github/license/r9odt/chef-webapi)](//github.com/r9odt/chef-webapi/blob/master/LICENSE)
 - Moira API client for dump and restoring/applying configuration  
- [moira-dumper](//github.com/JIexa24/moira-dumper)  
- [![License](https://img.shields.io/github/license/JIexa24/moira-dumper)](//github.com/JIexa24/moira-dumper/blob/master/LICENSE)
+ [moira-dumper](//github.com/r9odt/moira-dumper)  
+ [![License](https://img.shields.io/github/license/r9odt/moira-dumper)](//github.com/r9odt/moira-dumper/blob/master/LICENSE)
 - Pass-Through Authentication based on Nginx with lua, using LDAP and simple hash alg  
- [nginx-auth](//github.com/JIexa24/nginx-auth)  
- [![License](https://img.shields.io/github/license/JIexa24/nginx-auth)](//github.com/JIexa24/nginx-auth/blob/master/LICENSE)  
+ [nginx-auth](//github.com/r9odt/nginx-auth)  
+ [![License](https://img.shields.io/github/license/r9odt/nginx-auth)](//github.com/r9odt/nginx-auth/blob/master/LICENSE)  
 
 ## My skills is
 
@@ -61,7 +61,7 @@ Old keys:
   Also, i have some skills in reverse-engineering on more other languages, including next list:  
   [![Ruby](https://img.shields.io/badge/-Ruby-232830?style=fflat-square&logo=Ruby&logoColor=6296CC)](//www.ruby-lang.org/)
   [![Java](https://img.shields.io/badge/-Java-232830?style=fflat-square&logo=Java&logoColor=6296CC)](//java.com/)
-  [![C#](https://img.shields.io/badge/-C%20Sharp-232830?style=fflat-square&logo=.Net&logoColor=6296CC)](//github.com/JIexa24)
+  [![C#](https://img.shields.io/badge/-C%20Sharp-232830?style=fflat-square&logo=.Net&logoColor=6296CC)](//github.com/r9odt)
   [![PHP](https://img.shields.io/badge/-PHP-232830?style=fflat-square&logo=PHP&logoColor=6296CC)](//php.net)
   [![JS](https://img.shields.io/badge/-JavaScript-232830?style=fflat-square&logo=javascript&logoColor=6296CC)](//javascript.com)
   
@@ -78,19 +78,19 @@ Old keys:
   
 - ### Network technologies
 
-  [![ISO/OSI](https://img.shields.io/badge/-ISO/OSI-232830?style=fflat-square&logo=&logoColor=6296CC)](//github.com/JIexa24)
-  [![DNS](https://img.shields.io/badge/-DNS%20(bind)-232830?style=fflat-square&logo=&logoColor=6296CC)](//github.com/JIexa24)
-  [![DHCP](https://img.shields.io/badge/-DHCP-232830?style=fflat-square&logo=&logoColor=6296CC)](//github.com/JIexa24)  
-  [![Routers&Switches](https://img.shields.io/badge/-Routers&Switches-232830?style=fflat-square&logo=&logoColor=6296CC)](//github.com/JIexa24)
+  [![ISO/OSI](https://img.shields.io/badge/-ISO/OSI-232830?style=fflat-square&logo=&logoColor=6296CC)](//github.com/r9odt)
+  [![DNS](https://img.shields.io/badge/-DNS%20(bind)-232830?style=fflat-square&logo=&logoColor=6296CC)](//github.com/r9odt)
+  [![DHCP](https://img.shields.io/badge/-DHCP-232830?style=fflat-square&logo=&logoColor=6296CC)](//github.com/r9odt)  
+  [![Routers&Switches](https://img.shields.io/badge/-Routers&Switches-232830?style=fflat-square&logo=&logoColor=6296CC)](//github.com/r9odt)
   [![Cisco](https://img.shields.io/badge/-Cisco-232830?style=fflat-square&logo=Cisco&logoColor=6296CC)](//www.cisco.com/)
   [![MikroTik](https://img.shields.io/badge/-MikroTik-232830?style=fflat-square&logo=&logoColor=6296CC)](//mikrotik.com/)
   [![HP](https://img.shields.io/badge/-HP-232830?style=fflat-square&logo=HP&logoColor=6296CC)](//www.hp.com/)  
-  [![Routing&Switching](https://img.shields.io/badge/-Routing&Switching-232830?style=fflat-square&logo=&logoColor=6296CC)](//github.com/JIexa24)
-  [![Route table RIB/FIB](https://img.shields.io/badge/-Route%20table%20RIB/FIB-232830?style=fflat-square&logo=&logoColor=6296CC)](//github.com/JIexa24)
-  [![QoS](https://img.shields.io/badge/-QoS-232830?style=fflat-square&logo=&logoColor=6296CC)](//github.com/JIexa24)
-  [![Firewall/IPtables](https://img.shields.io/badge/-Firewall/IPtables-232830?style=fflat-square&logo=&logoColor=6296CC)](//github.com/JIexa24)
-  [![IProute](https://img.shields.io/badge/-IProute-232830?style=fflat-square&logo=&logoColor=6296CC)](//github.com/JIexa24)
-  [![Packet Flow](https://img.shields.io/badge/-Packet%20Flow-232830?style=fflat-square&logo=&logoColor=6296CC)](//github.com/JIexa24)
+  [![Routing&Switching](https://img.shields.io/badge/-Routing&Switching-232830?style=fflat-square&logo=&logoColor=6296CC)](//github.com/r9odt)
+  [![Route table RIB/FIB](https://img.shields.io/badge/-Route%20table%20RIB/FIB-232830?style=fflat-square&logo=&logoColor=6296CC)](//github.com/r9odt)
+  [![QoS](https://img.shields.io/badge/-QoS-232830?style=fflat-square&logo=&logoColor=6296CC)](//github.com/r9odt)
+  [![Firewall/IPtables](https://img.shields.io/badge/-Firewall/IPtables-232830?style=fflat-square&logo=&logoColor=6296CC)](//github.com/r9odt)
+  [![IProute](https://img.shields.io/badge/-IProute-232830?style=fflat-square&logo=&logoColor=6296CC)](//github.com/r9odt)
+  [![Packet Flow](https://img.shields.io/badge/-Packet%20Flow-232830?style=fflat-square&logo=&logoColor=6296CC)](//github.com/r9odt)
   
 - ### System administration
 
@@ -147,7 +147,7 @@ Old keys:
   [![Slurm](https://img.shields.io/badge/-Slurm-232830?style=fflat-square&logo=&logoColor=6296CC)](//slurm.schedmd.com/)
 
 <!--
-**JIexa24/JIexa24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**r9odt/r9odt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
