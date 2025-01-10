@@ -75,6 +75,7 @@ Old keys:
   [![Jenkins](https://img.shields.io/badge/-Jenkins-232830?style=fflat-square&logo=Jenkins&logoColor=6296CC)](//www.jenkins.io/)  
   [![Vagrant](https://img.shields.io/badge/-Vagrant-232830?style=fflat-square&logo=Vagrant&logoColor=6296CC)](//www.vagrantup.com/)
   [![Terraform](https://img.shields.io/badge/-Terraform-232830?style=fflat-square&logo=Terraform&logoColor=6296CC)](//www.terraform.io/)
+  [![OpenTofu](https://img.shields.io/badge/-Opentofu-232830?style=fflat-square&logo=Opentofu&logoColor=6296CC)](//opentofu.org/)
   
 - ### Network technologies
 
