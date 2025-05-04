@@ -37,7 +37,7 @@ Old keys:
  [gitlab-ldap-sync](//github.com/r9odt/gitlab-ldap-sync)  
  [![License](https://img.shields.io/github/license/r9odt/gitlab-ldap-sync)](//github.com/r9odt/gitlab-ldap-sync/blob/master/LICENSE)
 - FreeIPA Passwords checker. Check passwords for presence in the specified dictionary  
- [gitlab-ldap-sync](//github.com/r9odt/freeipa-passwords-check)  
+ [freeipa-passwords-check](//github.com/r9odt/freeipa-passwords-check)  
  [![License](https://img.shields.io/github/license/r9odt/freeipa-passwords-check)](//github.com/r9odt/freeipa-passwords-check/blob/master/LICENSE)
 - Impemention of merge sort on Golang  
  [go-mergeSort](//github.com/r9odt/go-mergeSort)  
