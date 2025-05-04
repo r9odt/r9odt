@@ -36,6 +36,9 @@ Old keys:
 - Gitlab users/groups sync with FreeIPA  
  [gitlab-ldap-sync](//github.com/r9odt/gitlab-ldap-sync)  
  [![License](https://img.shields.io/github/license/r9odt/gitlab-ldap-sync)](//github.com/r9odt/gitlab-ldap-sync/blob/master/LICENSE)
+- FreeIPA Passwords checker. Check passwords for presence in the specified dictionary  
+ [gitlab-ldap-sync](//github.com/r9odt/freeipa-passwords-check)  
+ [![License](https://img.shields.io/github/license/r9odt/freeipa-passwords-check)](//github.com/r9odt/freeipa-passwords-check/blob/master/LICENSE)
 - Impemention of merge sort on Golang  
  [go-mergeSort](//github.com/r9odt/go-mergeSort)  
  [![License](https://img.shields.io/github/license/r9odt/go-mergeSort)](//github.com/r9odt/go-mergeSort/blob/master/LICENSE)
@@ -45,9 +48,6 @@ Old keys:
 - Moira API client for dump and restoring/applying configuration  
  [moira-dumper](//github.com/r9odt/moira-dumper)  
  [![License](https://img.shields.io/github/license/r9odt/moira-dumper)](//github.com/r9odt/moira-dumper/blob/master/LICENSE)
-- Pass-Through Authentication based on Nginx with lua, using LDAP and simple hash alg  
- [nginx-auth](//github.com/r9odt/nginx-auth)  
- [![License](https://img.shields.io/github/license/r9odt/nginx-auth)](//github.com/r9odt/nginx-auth/blob/master/LICENSE)  
 
 ## My skills is
 
