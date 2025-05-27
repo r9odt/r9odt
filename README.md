@@ -5,8 +5,7 @@
 ## About me
 
 - I am a PhD student of Siberian State University of Telecommunications and Information Science.
-- I have a Master's qualification in Computer Science and Engineering.  
-  Now I am studying in graduate school.
+- I have a Master's qualification in Computer Science and Engineering.
 - I am also DevOps and software engineer.
 - I am currently learning DevOps technical, programming and system administration.
 
