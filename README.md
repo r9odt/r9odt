@@ -5,7 +5,7 @@
 ## About me
 
 - DevOps and software engineer.
-- Have a Master's qualification in Computer Science and Engineering.
+- I have a Master's qualification in Computer Science and Engineering.
 
 [![personal-gpg](https://img.shields.io/badge/gpg%20personal-80EC1A106A728E6CEC4F7976A1716C168860334B-blue?style=for-the-badge&labelColor=090909)](./personal.gpg)
 
